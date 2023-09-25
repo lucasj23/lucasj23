@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a passionate Data Analyst who loves working with data to extract relevant and valuable insights. I'm excited about exploring datasets, applying analytical techniques, and effectively visualizing the results. Currently, I'm also diving into the world of machine learning to create predictive models and classifications. In this space, I'll be sharing projects, scripts, and analyses that reflect my dedication to data analytics and my journey into the realm of machine learning.
+
+You can reach me on LinkedIn at https://www.linkedin.com/in/lucas-jordan23/. Join me on this exciting journey of knowledge discovery through data and machine learning!
 
 <!--
 **lucasj23/lucasj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
