@@ -1,8 +1,15 @@
 ### Hi there 👋
-I'm a passionate Data Analyst who loves working with data to extract relevant and valuable insights. I'm excited about exploring datasets, applying analytical techniques, and effectively visualizing the results.
-In this space, I'll be sharing projects, scripts, and analyses that reflect my dedication to data analytics.
 
-You can reach me on LinkedIn at https://www.linkedin.com/in/lucas-jordan23/.
+I’m Lucas — a Data Analyst with a strong background in Supply Chain Analytics and growing experience in Analytics Engineering.
+I work with AWS (Athena, S3, Glue), SQL, Python, and QuickSight to build scalable analytical solutions and high-complexity dashboards using LAC functions and multi-granularity data models.
+
+Here I share projects, scripts, and analytical workflows that reflect my focus on:
+• transforming raw data into actionable insights
+• building reliable and scalable data solutions
+• combining analytics, data modeling, and visualization
+
+Feel free to connect with me on LinkedIn:
+🔗 https://www.linkedin.com/in/lucas-jordan23/
 
 <!--
 **lucasj23/lucasj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
