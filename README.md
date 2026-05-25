@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I’m Lucas — a Data Analyst with a strong background in Supply Chain Analytics and growing experience in Analytics Engineering.
-I work with AWS (Athena, S3, Glue), SQL, Python, and QuickSight to build scalable analytical solutions and high-complexity dashboards using LAC functions and multi-granularity data models.
-
-Here I share projects, scripts, and analytical workflows that reflect my focus on:
-• transforming raw data into actionable insights
-• building reliable and scalable data solutions
-• combining analytics, data modeling, and visualization
+I'm a Data Analyst with experience across fintechs. Experienced working with AWS (Athena, S3, Glue), SQL, Python, and large-scale datasets to analyze business performance, user behavior, and operational metrics.
 
 Feel free to connect with me on LinkedIn:
 🔗 https://www.linkedin.com/in/lucas-jordan23/
